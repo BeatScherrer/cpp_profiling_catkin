@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package>
+  <name>cpp_profiling_catkin</name>
+  <version>0.0.1</version>
+  <description>cpp_profiling catkin_simple support</description>
+  <maintainer email="beat.scherrer@gmail.com">Beat Scherrer</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
